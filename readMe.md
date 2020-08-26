@@ -1,8 +1,7 @@
 This rep is for heroku server
 ===
 
-
-WeatherData
+    WeatherData
     minCelsius number -----main.temp_min
     maxCelsius number -----main.temp_max
     minFahrenheit number ----------(main.temp_min × 9/5) + 32 = 32°F
